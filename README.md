@@ -3,12 +3,12 @@ This repository contains Rubick solver and visualizer in Opengl
 
 ## Authors
 
-* **José Emmanuel Tito Acrota** - *San Pablo Catholic University* - [GitHub](https://github.com/paolofersa)
+* **José Emmanuel Tito Acrota** - *San Pablo Catholic University* - [GitHub](https://github.com/capijose1)
 
 ## Gif
 
 
-![1](https://github.com/Andrescmm/Rubick-Cube/blob/main/Evidencias%20y%20Informes/videog.gif)
+![1](https://github.com/capijose1/Rubick-Opengl/blob/main/20220713_221745.gif)
 
 ## Requirements
 This project also depends on 4 libraries:
